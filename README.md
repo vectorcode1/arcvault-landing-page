@@ -8,7 +8,7 @@ A ultra-professional luxury business landing page built with pure HTML and Tailw
 
 ## 🔗 Live Demo
 
-[**View Live →**](https://vectorcode1.github.io/arcvault-landing-page/) *(replace after deploying)*
+[**View Live →**](https://vectorcode1.github.io/arcvault-landing-page/)
 
 ---
 
